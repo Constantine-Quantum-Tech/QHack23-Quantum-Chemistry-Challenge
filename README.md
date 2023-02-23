@@ -1,1 +1,1 @@
-# QHack23-Quantum-Chemistry-Challenge
+# CQTech : QHack 2023's Quantum Chemistry Challenge
