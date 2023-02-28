@@ -9,8 +9,8 @@ We aimed to explore the functionalities of Qiskit and the many options provided 
 1. Comparing different basis sets
 1. Compare different mappings 
 1. Compare UCCSD with Hardware Efficient Ansatz
-1. REM 
-1. Kandala
+1. REM (Lolur et al. 2023) 
+1. BeH2 optimized circuit (Kandala et al. 2017)
 
 
 ## Team:
