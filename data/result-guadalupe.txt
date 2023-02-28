@@ -1,0 +1,299 @@
+Current estimation: -14.746459508651487 Ha, Number of Jobs for this iteration is: 53, time taken: 1957.2447581291199s
+
+Current estimation: -14.978349103441072 Ha, Number of Jobs for this iteration is: 3, time taken: 105.70773911476135s
+
+Current estimation: -15.188407706381014 Ha, Number of Jobs for this iteration is: 3, time taken: 122.43566679954529s
+
+Current estimation: -14.457199873787982 Ha, Number of Jobs for this iteration is: 3, time taken: 102.944828748703s
+
+Current estimation: -15.069503741276524 Ha, Number of Jobs for this iteration is: 3, time taken: 107.1689805984497s
+
+Current estimation: -15.042071902685535 Ha, Number of Jobs for this iteration is: 3, time taken: 107.0194091796875s
+
+Current estimation: -15.080504968315271 Ha, Number of Jobs for this iteration is: 3, time taken: 105.5734646320343s
+
+Current estimation: -15.06683027912391 Ha, Number of Jobs for this iteration is: 3, time taken: 104.8580756187439s
+
+Current estimation: -15.110572040325263 Ha, Number of Jobs for this iteration is: 3, time taken: 106.29574584960938s
+
+Current estimation: -15.041928730940398 Ha, Number of Jobs for this iteration is: 3, time taken: 123.69614291191101s
+
+Current estimation: -15.075695830050872 Ha, Number of Jobs for this iteration is: 3, time taken: 109.14277768135071s
+
+Current estimation: -14.719230697723837 Ha, Number of Jobs for this iteration is: 3, time taken: 136.20719242095947s
+
+Current estimation: -15.060629918546717 Ha, Number of Jobs for this iteration is: 3, time taken: 118.98548460006714s
+
+Current estimation: -15.12824775126013 Ha, Number of Jobs for this iteration is: 3, time taken: 105.26558709144592s
+
+Current estimation: -14.390984505279139 Ha, Number of Jobs for this iteration is: 3, time taken: 104.03580951690674s
+
+Current estimation: -14.758486999248472 Ha, Number of Jobs for this iteration is: 3, time taken: 105.16619372367859s
+
+Current estimation: -14.801433638485282 Ha, Number of Jobs for this iteration is: 3, time taken: 116.91776919364929s
+
+Current estimation: -15.034276825847499 Ha, Number of Jobs for this iteration is: 3, time taken: 101.88354182243347s
+
+Current estimation: -15.015865862248088 Ha, Number of Jobs for this iteration is: 3, time taken: 104.67260074615479s
+
+Current estimation: -14.93573220068673 Ha, Number of Jobs for this iteration is: 3, time taken: 124.38746881484985s
+
+Current estimation: -15.021098904426463 Ha, Number of Jobs for this iteration is: 3, time taken: 103.14866757392883s
+
+Current estimation: -15.011250761792855 Ha, Number of Jobs for this iteration is: 3, time taken: 102.63604974746704s
+
+Current estimation: -14.816345153742361 Ha, Number of Jobs for this iteration is: 3, time taken: 101.54759812355042s
+
+Current estimation: -14.525340519445816 Ha, Number of Jobs for this iteration is: 3, time taken: 147.04560017585754s
+
+Current estimation: -14.871103128995866 Ha, Number of Jobs for this iteration is: 3, time taken: 101.55400443077087s
+
+Current estimation: -14.641485193298283 Ha, Number of Jobs for this iteration is: 3, time taken: 102.83639764785767s
+
+Current estimation: -14.562361947577372 Ha, Number of Jobs for this iteration is: 3, time taken: 101.17079496383667s
+
+Current estimation: -14.66154943907133 Ha, Number of Jobs for this iteration is: 3, time taken: 102.6040894985199s
+
+Current estimation: -15.040014472503913 Ha, Number of Jobs for this iteration is: 3, time taken: 112.44499778747559s
+
+Current estimation: -14.97958511035409 Ha, Number of Jobs for this iteration is: 3, time taken: 101.77771997451782s
+
+Current estimation: -15.100502256397931 Ha, Number of Jobs for this iteration is: 3, time taken: 99.8769416809082s
+
+Current estimation: -15.151987915460573 Ha, Number of Jobs for this iteration is: 3, time taken: 100.61694383621216s
+
+Current estimation: -15.09889577738399 Ha, Number of Jobs for this iteration is: 3, time taken: 102.0088243484497s
+
+Current estimation: -15.289724965111834 Ha, Number of Jobs for this iteration is: 3, time taken: 101.15384721755981s
+
+Current estimation: -15.13846589683773 Ha, Number of Jobs for this iteration is: 3, time taken: 101.58241605758667s
+
+Current estimation: -15.134386975183276 Ha, Number of Jobs for this iteration is: 3, time taken: 102.58416962623596s
+
+Current estimation: -15.038587518204071 Ha, Number of Jobs for this iteration is: 3, time taken: 101.60080003738403s
+
+Current estimation: -15.112143979118837 Ha, Number of Jobs for this iteration is: 3, time taken: 100.86034560203552s
+
+Current estimation: -15.147718345442676 Ha, Number of Jobs for this iteration is: 3, time taken: 99.4292504787445s
+
+Current estimation: -14.615931366640122 Ha, Number of Jobs for this iteration is: 3, time taken: 108.74852013587952s
+
+Current estimation: -15.082986033178301 Ha, Number of Jobs for this iteration is: 3, time taken: 101.73895621299744s
+
+Current estimation: -15.002988092704271 Ha, Number of Jobs for this iteration is: 3, time taken: 101.8317174911499s
+
+Current estimation: -15.127069519612096 Ha, Number of Jobs for this iteration is: 3, time taken: 108.12716555595398s
+
+Current estimation: -14.697085419899306 Ha, Number of Jobs for this iteration is: 3, time taken: 106.30260848999023s
+
+Current estimation: -15.06025600570856 Ha, Number of Jobs for this iteration is: 3, time taken: 101.7799870967865s
+
+Current estimation: -14.766710979425387 Ha, Number of Jobs for this iteration is: 3, time taken: 103.80589318275452s
+
+Current estimation: -15.089637695776485 Ha, Number of Jobs for this iteration is: 3, time taken: 143.18166422843933s
+
+Current estimation: -15.097665667176187 Ha, Number of Jobs for this iteration is: 3, time taken: 102.60633659362793s
+
+Current estimation: -15.076871173134673 Ha, Number of Jobs for this iteration is: 3, time taken: 106.07390522956848s
+
+Current estimation: -14.79678655121414 Ha, Number of Jobs for this iteration is: 3, time taken: 101.46633315086365s
+
+Current estimation: -15.056925426216523 Ha, Number of Jobs for this iteration is: 3, time taken: 105.90333437919617s
+
+Current estimation: -15.045866251980431 Ha, Number of Jobs for this iteration is: 3, time taken: 124.67315435409546s
+
+Current estimation: -15.035984290823208 Ha, Number of Jobs for this iteration is: 3, time taken: 156.55006575584412s
+
+Current estimation: -14.858605542974054 Ha, Number of Jobs for this iteration is: 3, time taken: 110.66420412063599s
+
+Current estimation: -14.967934402510629 Ha, Number of Jobs for this iteration is: 3, time taken: 161.17556476593018s
+
+Current estimation: -14.525177666527398 Ha, Number of Jobs for this iteration is: 3, time taken: 175.9222388267517s
+
+Current estimation: -15.145608628064036 Ha, Number of Jobs for this iteration is: 3, time taken: 141.51976132392883s
+
+Current estimation: -15.003247641002904 Ha, Number of Jobs for this iteration is: 3, time taken: 134.34574246406555s
+
+Current estimation: -14.928813089114737 Ha, Number of Jobs for this iteration is: 3, time taken: 104.88671278953552s
+
+Current estimation: -14.853113008674772 Ha, Number of Jobs for this iteration is: 3, time taken: 106.97894883155823s
+
+Current estimation: -14.954225896778304 Ha, Number of Jobs for this iteration is: 3, time taken: 107.0464825630188s
+
+Current estimation: -14.840228563448893 Ha, Number of Jobs for this iteration is: 3, time taken: 101.86858201026917s
+
+Current estimation: -14.958187876182926 Ha, Number of Jobs for this iteration is: 3, time taken: 103.2628481388092s
+
+Current estimation: -14.914521334363734 Ha, Number of Jobs for this iteration is: 3, time taken: 99.95692014694214s
+
+Current estimation: -14.876200709618306 Ha, Number of Jobs for this iteration is: 3, time taken: 104.30687522888184s
+
+Current estimation: -14.669226435437114 Ha, Number of Jobs for this iteration is: 3, time taken: 101.75020956993103s
+
+Current estimation: -14.935057996897754 Ha, Number of Jobs for this iteration is: 3, time taken: 103.52154660224915s
+
+Current estimation: -14.94222610128891 Ha, Number of Jobs for this iteration is: 3, time taken: 105.3650426864624s
+
+Current estimation: -14.599332444724485 Ha, Number of Jobs for this iteration is: 3, time taken: 105.07769179344177s
+
+Current estimation: -15.042537851021287 Ha, Number of Jobs for this iteration is: 3, time taken: 104.23481559753418s
+
+Current estimation: -14.968367304828 Ha, Number of Jobs for this iteration is: 3, time taken: 101.69092106819153s
+
+Current estimation: -14.690180330601692 Ha, Number of Jobs for this iteration is: 3, time taken: 101.74049043655396s
+
+Current estimation: -14.798728989415793 Ha, Number of Jobs for this iteration is: 3, time taken: 101.49656200408936s
+
+Current estimation: -14.944172355030176 Ha, Number of Jobs for this iteration is: 3, time taken: 110.63126349449158s
+
+Current estimation: -15.054714359448205 Ha, Number of Jobs for this iteration is: 3, time taken: 102.27110862731934s
+
+Current estimation: -14.995871374511282 Ha, Number of Jobs for this iteration is: 3, time taken: 115.20895218849182s
+
+Current estimation: -15.09208377006723 Ha, Number of Jobs for this iteration is: 3, time taken: 104.53436183929443s
+
+Current estimation: -14.754195636956652 Ha, Number of Jobs for this iteration is: 3, time taken: 106.40510940551758s
+
+Current estimation: -14.94846606368996 Ha, Number of Jobs for this iteration is: 3, time taken: 138.17923545837402s
+
+Current estimation: -15.109740737830919 Ha, Number of Jobs for this iteration is: 3, time taken: 101.74247789382935s
+
+Current estimation: -14.934904932857837 Ha, Number of Jobs for this iteration is: 3, time taken: 112.53564977645874s
+
+Current estimation: -15.059235740469905 Ha, Number of Jobs for this iteration is: 3, time taken: 100.41435074806213s
+
+Current estimation: -14.967002905300312 Ha, Number of Jobs for this iteration is: 3, time taken: 107.38246941566467s
+
+Current estimation: -15.011172047932096 Ha, Number of Jobs for this iteration is: 3, time taken: 99.58513808250427s
+
+Current estimation: -14.814191906992868 Ha, Number of Jobs for this iteration is: 3, time taken: 102.11181426048279s
+
+Current estimation: -15.023103524748077 Ha, Number of Jobs for this iteration is: 3, time taken: 100.31294870376587s
+
+Current estimation: -15.03254682590417 Ha, Number of Jobs for this iteration is: 3, time taken: 102.53595542907715s
+
+Current estimation: -15.05607012619436 Ha, Number of Jobs for this iteration is: 3, time taken: 100.66105556488037s
+
+Current estimation: -14.899898708367648 Ha, Number of Jobs for this iteration is: 3, time taken: 103.52942848205566s
+
+Current estimation: -15.19025340376146 Ha, Number of Jobs for this iteration is: 3, time taken: 106.91489362716675s
+
+Current estimation: -15.172462290483406 Ha, Number of Jobs for this iteration is: 3, time taken: 106.28074049949646s
+
+Current estimation: -15.13986912206122 Ha, Number of Jobs for this iteration is: 3, time taken: 109.3642098903656s
+
+Current estimation: -14.985753130563477 Ha, Number of Jobs for this iteration is: 3, time taken: 102.81081438064575s
+
+Current estimation: -15.150678200619769 Ha, Number of Jobs for this iteration is: 3, time taken: 103.54821109771729s
+
+Current estimation: -14.85597448669036 Ha, Number of Jobs for this iteration is: 3, time taken: 104.89389491081238s
+
+Current estimation: -14.959426344588376 Ha, Number of Jobs for this iteration is: 3, time taken: 102.86036276817322s
+
+Current estimation: -15.046716601647237 Ha, Number of Jobs for this iteration is: 3, time taken: 102.80054187774658s
+
+Current estimation: -15.05459129221854 Ha, Number of Jobs for this iteration is: 3, time taken: 103.81595206260681s
+
+Current estimation: -14.899924539767415 Ha, Number of Jobs for this iteration is: 3, time taken: 112.27800035476685s
+
+Current estimation: -15.047105507003486 Ha, Number of Jobs for this iteration is: 3, time taken: 101.06428170204163s
+
+Current estimation: -14.966184793864834 Ha, Number of Jobs for this iteration is: 3, time taken: 119.90235328674316s
+
+Current estimation: -14.770184216357709 Ha, Number of Jobs for this iteration is: 3, time taken: 105.73124384880066s
+
+Current estimation: -15.132918707241924 Ha, Number of Jobs for this iteration is: 3, time taken: 107.377769947052s
+
+Current estimation: -15.072051966641798 Ha, Number of Jobs for this iteration is: 3, time taken: 101.43156623840332s
+
+Current estimation: -15.011291476328786 Ha, Number of Jobs for this iteration is: 3, time taken: 102.2724974155426s
+
+Current estimation: -14.912853594954054 Ha, Number of Jobs for this iteration is: 3, time taken: 104.27293705940247s
+
+Current estimation: -15.088369195436325 Ha, Number of Jobs for this iteration is: 3, time taken: 108.44909477233887s
+
+Current estimation: -15.009971138377907 Ha, Number of Jobs for this iteration is: 3, time taken: 105.83166909217834s
+
+Current estimation: -14.95161202722219 Ha, Number of Jobs for this iteration is: 3, time taken: 102.8225827217102s
+
+Current estimation: -14.828087555627246 Ha, Number of Jobs for this iteration is: 3, time taken: 106.63762044906616s
+
+Current estimation: -15.082256159890765 Ha, Number of Jobs for this iteration is: 3, time taken: 101.88813877105713s
+
+Current estimation: -15.060961049065625 Ha, Number of Jobs for this iteration is: 3, time taken: 102.21555733680725s
+
+Current estimation: -15.01104427599332 Ha, Number of Jobs for this iteration is: 3, time taken: 129.23623323440552s
+
+Current estimation: -14.955003737173453 Ha, Number of Jobs for this iteration is: 3, time taken: 106.032399892807s
+
+Current estimation: -14.815081342894878 Ha, Number of Jobs for this iteration is: 3, time taken: 102.46178531646729s
+
+Current estimation: -15.023488993474341 Ha, Number of Jobs for this iteration is: 3, time taken: 101.79806995391846s
+
+Current estimation: -15.100220685040636 Ha, Number of Jobs for this iteration is: 3, time taken: 101.12683081626892s
+
+Current estimation: -15.013101543987595 Ha, Number of Jobs for this iteration is: 3, time taken: 106.13041615486145s
+
+Current estimation: -14.96872506925759 Ha, Number of Jobs for this iteration is: 3, time taken: 102.8192970752716s
+
+Current estimation: -15.062581278142975 Ha, Number of Jobs for this iteration is: 3, time taken: 102.34494662284851s
+
+Current estimation: -14.912167451560588 Ha, Number of Jobs for this iteration is: 3, time taken: 101.86138343811035s
+
+Current estimation: -15.03702788345441 Ha, Number of Jobs for this iteration is: 3, time taken: 106.58493947982788s
+
+Current estimation: -15.027264356048075 Ha, Number of Jobs for this iteration is: 3, time taken: 103.4603099822998s
+
+Current estimation: -14.910974905635438 Ha, Number of Jobs for this iteration is: 3, time taken: 116.36023187637329s
+
+Current estimation: -14.995767196222346 Ha, Number of Jobs for this iteration is: 3, time taken: 99.80534172058105s
+
+Current estimation: -15.091713365697498 Ha, Number of Jobs for this iteration is: 3, time taken: 101.06660032272339s
+
+Current estimation: -14.948747506652797 Ha, Number of Jobs for this iteration is: 3, time taken: 103.22910809516907s
+
+Current estimation: -14.888795037325071 Ha, Number of Jobs for this iteration is: 3, time taken: 101.56761050224304s
+
+Current estimation: -15.14450765188359 Ha, Number of Jobs for this iteration is: 3, time taken: 104.44936060905457s
+
+Current estimation: -15.047323660957321 Ha, Number of Jobs for this iteration is: 3, time taken: 107.72151398658752s
+
+Current estimation: -15.178834262132892 Ha, Number of Jobs for this iteration is: 3, time taken: 133.3546805381775s
+
+Current estimation: -14.766246182163801 Ha, Number of Jobs for this iteration is: 3, time taken: 170.1554937362671s
+
+Current estimation: -15.020670124132728 Ha, Number of Jobs for this iteration is: 3, time taken: 197.836523771286s
+
+Current estimation: -14.925654686778259 Ha, Number of Jobs for this iteration is: 3, time taken: 147.11835265159607s
+
+Current estimation: -14.98660830766531 Ha, Number of Jobs for this iteration is: 3, time taken: 137.5544309616089s
+
+Current estimation: -15.050930961078539 Ha, Number of Jobs for this iteration is: 3, time taken: 101.13992190361023s
+
+Current estimation: -14.91699820638943 Ha, Number of Jobs for this iteration is: 3, time taken: 126.06388068199158s
+
+Current estimation: -14.92280967693419 Ha, Number of Jobs for this iteration is: 3, time taken: 103.75041246414185s
+
+Current estimation: -15.037264318529601 Ha, Number of Jobs for this iteration is: 3, time taken: 109.66067099571228s
+
+Current estimation: -15.024692295406538 Ha, Number of Jobs for this iteration is: 3, time taken: 115.66634607315063s
+
+Current estimation: -14.965954294110016 Ha, Number of Jobs for this iteration is: 3, time taken: 105.33682107925415s
+
+Current estimation: -15.029808741577519 Ha, Number of Jobs for this iteration is: 3, time taken: 109.45008850097656s
+
+Current estimation: -15.202728518606445 Ha, Number of Jobs for this iteration is: 3, time taken: 109.71606183052063s
+
+Current estimation: -15.103224924126923 Ha, Number of Jobs for this iteration is: 3, time taken: 2896.1689009666443s
+
+Current estimation: -15.039452139763721 Ha, Number of Jobs for this iteration is: 3, time taken: 106.25039958953857s
+
+Current estimation: -14.82346042349213 Ha, Number of Jobs for this iteration is: 3, time taken: 107.72218942642212s
+
+Current estimation: -15.020132570009405 Ha, Number of Jobs for this iteration is: 3, time taken: 110.79992246627808s
+
+Current estimation: -14.898429451580178 Ha, Number of Jobs for this iteration is: 3, time taken: 105.68342089653015s
+
+Current estimation: -14.945062871799685 Ha, Number of Jobs for this iteration is: 3, time taken: 133.5211045742035s
+
+Current estimation: -14.902210874727281 Ha, Number of Jobs for this iteration is: 3, time taken: 119.84321546554565s
